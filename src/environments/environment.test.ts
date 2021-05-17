@@ -1,9 +1,9 @@
 export const environment = {
   local: false,
   dev: false,
-  test: false,
+  test: true,
   stage: false,
-  prod: true,
+  prod: false,
   production: false,
   apiEndPoint: "./assets/data"
 };
